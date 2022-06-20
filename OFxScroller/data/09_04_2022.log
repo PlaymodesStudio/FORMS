@@ -1,0 +1,57 @@
+
+
+--------------------------------------- 2022-04-09-01-18-15-928
+[ error ] ofAppGLFWWindow: 65544: Cocoa: Failed to find service port for display
+[notice ] 01:18:25 : Portada 2
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 01:18:56 : 
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 01:19:28 : 
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 01:19:59 : 
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 01:20:23 : 
+[notice ] 01:20:34 : 
+[notice ] 01:20:43 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/2.png
+[notice ] 01:20:48 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/3.png
+[notice ] 01:20:53 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/4.png
+[notice ] 01:20:58 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/5.png
+[notice ] 01:21:03 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/5.png
+[notice ] 01:21:09 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/7.png
+[notice ] 01:21:14 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/7.png
+[notice ] 01:21:19 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/8.png
+[notice ] 01:21:24 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/10.png
+[notice ] 01:21:30 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/10.png
+[notice ] 01:21:35 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/12.png
+[notice ] 01:21:40 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/12.png
+[notice ] 01:21:45 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/13.png
+[notice ] 01:21:50 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/14.png
+[notice ] 01:21:56 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/16.png
+[notice ] 01:22:01 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/17.png
+[notice ] 01:22:06 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/18.png
+[notice ] 01:22:12 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/18.png
+[notice ] 01:22:18 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/19.png
+[notice ] 01:22:23 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/20.png
+[notice ] 01:22:29 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/22.png
+[notice ] 01:22:34 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/23.png
+[notice ] 01:22:39 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/24.png
+[notice ] 01:22:44 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/24.png
+[notice ] 01:22:50 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/25.png
+[notice ] 01:22:55 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/27.png
+[notice ] 01:23:01 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/28.png
+[notice ] 01:23:06 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/29.png
+[notice ] 01:23:11 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/29.png
+[notice ] 01:23:16 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/31.png
+[notice ] 01:23:22 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/31.png
+[notice ] 01:23:27 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/32.png
+[notice ] 01:23:32 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/33.png
+[notice ] 01:23:37 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/35.png
+[notice ] 01:23:43 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/37.png
+[notice ] 01:23:48 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/39.png
+[notice ] 01:23:53 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/41.png
+[notice ] 01:23:58 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/42.png
+[notice ] 01:24:03 : /Volumes/GoogleDrive/Unidades compartidas/PLAYMODES_STUDIO/PROJECTES/ATEMPORALS/FORMS/P5/FORMS_SPECTRUM3/pngs/43.png

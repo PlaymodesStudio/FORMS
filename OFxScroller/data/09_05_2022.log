@@ -1,0 +1,102 @@
+
+
+--------------------------------------- 2022-05-09-00-18-00-275
+[ error ] ofAppGLFWWindow: 65544: Cocoa: Failed to find service port for display
+[notice ] 00:18:33 : Portada 2
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 00:18:59 : 
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 00:19:54 : 
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 00:20:20 : 
+[ error ] ofImage: loadImage(): couldn't load image from """"
+[ error ] ofxThreadedImageLoader: couldn't load file: ""
+[notice ] 00:20:40 : 
+[notice ] 00:20:48 : 
+[notice ] 00:20:57 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:21:05 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:21:14 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:21:22 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:21:31 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/6.png
+[notice ] 00:32:45 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/7.png
+[notice ] 00:32:54 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/8.png
+[notice ] 00:33:02 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/9.png
+[notice ] 00:33:11 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/10.png
+[notice ] 00:33:19 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/11.png
+[notice ] 00:33:28 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/12.png
+[notice ] 00:33:36 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/13.png
+[notice ] 00:33:45 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/14.png
+[notice ] 00:33:53 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/15.png
+[notice ] 00:34:02 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/1.png
+[notice ] 00:34:10 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:35:05 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:35:13 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:35:22 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:35:30 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/6.png
+[notice ] 00:35:39 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/7.png
+[notice ] 00:35:47 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/8.png
+[notice ] 00:35:56 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/9.png
+[notice ] 00:36:04 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/10.png
+[notice ] 00:36:13 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/11.png
+[notice ] 00:36:21 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/12.png
+[notice ] 00:36:30 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/13.png
+[notice ] 00:36:39 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/1.png
+[notice ] 00:36:47 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:36:56 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:37:04 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:37:13 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:37:21 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:37:30 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:37:38 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:37:47 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:37:55 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:38:04 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/6.png
+[notice ] 00:38:12 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:38:21 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:38:29 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:38:38 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:38:47 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/6.png
+[notice ] 00:38:55 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/7.png
+[notice ] 00:39:04 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/7.png
+[notice ] 00:39:12 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:39:21 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:39:29 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:39:38 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:39:46 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/6.png
+[notice ] 00:39:55 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/7.png
+[notice ] 00:40:03 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/8.png
+[notice ] 00:40:12 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/9.png
+[notice ] 00:40:20 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/10.png
+[notice ] 00:40:29 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/11.png
+[notice ] 00:40:37 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/12.png
+[notice ] 00:40:46 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/13.png
+[notice ] 00:40:55 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/14.png
+[notice ] 00:41:03 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/15.png
+[notice ] 00:41:12 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/16.png
+[notice ] 00:41:20 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/17.png
+[notice ] 00:41:29 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/18.png
+[notice ] 00:41:37 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/19.png
+[notice ] 00:41:46 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/20.png
+[notice ] 00:41:54 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/21.png
+[notice ] 00:42:03 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/22.png
+[notice ] 00:42:11 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/23.png
+[notice ] 00:42:20 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/24.png
+[notice ] 00:42:28 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/25.png
+[notice ] 00:42:37 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/26.png
+[notice ] 00:42:45 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/26.png
+[notice ] 00:42:54 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:43:03 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:43:11 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:43:20 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:43:28 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/6.png
+[notice ] 00:43:37 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/15.png
+[notice ] 00:43:45 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/19.png
+[notice ] 00:43:54 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/19.png
+[notice ] 00:44:02 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/2.png
+[notice ] 00:44:11 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/3.png
+[notice ] 00:44:19 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/4.png
+[notice ] 00:44:28 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/5.png
+[notice ] 00:44:36 : /Users/santiagovilanova/Desktop/INDOMITES/FORMS_SPECTRUM4/pngs/6.png
